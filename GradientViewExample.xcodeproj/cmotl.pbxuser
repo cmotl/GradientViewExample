@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* GradientViewExample */ = {
+		activeExec = 0;
+		executables = (
+			82B24270125AC19D003F7B2E /* GradientViewExample */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GradientViewExampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {855, 592}}";
+			sepNavSelRange = "{213, 0}";
+			sepNavVisRange = "{0, 329}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GradientViewExampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {855, 806}}";
+			sepNavSelRange = "{880, 0}";
+			sepNavVisRange = "{0, 1180}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 82B24270125AC19D003F7B2E /* GradientViewExample */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GradientViewExample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GradientViewExample */,
+		);
+		codeSenseManager = 82B24283125AC1A4003F7B2E /* Code sense */;
+		executables = (
+			82B24270125AC19D003F7B2E /* GradientViewExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					677,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 307937693;
+			PBXWorkspaceStateSaveDate = 307937693;
+		};
+		perUserProjectItems = {
+			82B242BC125AC4FD003F7B2E /* PBXTextBookmark */ = 82B242BC125AC4FD003F7B2E /* PBXTextBookmark */;
+			82B242BD125AC4FD003F7B2E /* PBXTextBookmark */ = 82B242BD125AC4FD003F7B2E /* PBXTextBookmark */;
+			82B242BE125AC4FD003F7B2E /* PBXTextBookmark */ = 82B242BE125AC4FD003F7B2E /* PBXTextBookmark */;
+			82B242BF125AC4FD003F7B2E /* PBXTextBookmark */ = 82B242BF125AC4FD003F7B2E /* PBXTextBookmark */;
+			82B242C0125AC4FD003F7B2E /* PBXTextBookmark */ = 82B242C0125AC4FD003F7B2E /* PBXTextBookmark */;
+			82B242C1125AC4FD003F7B2E /* PBXTextBookmark */ = 82B242C1125AC4FD003F7B2E /* PBXTextBookmark */;
+			82B242C2125AC4FD003F7B2E /* PBXTextBookmark */ = 82B242C2125AC4FD003F7B2E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 82B24282125AC1A4003F7B2E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	82B24270125AC19D003F7B2E /* GradientViewExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GradientViewExample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	82B24282125AC1A4003F7B2E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82B24283125AC1A4003F7B2E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	82B24285125AC1B5003F7B2E /* GradientView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {855, 592}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 218}";
+		};
+	};
+	82B24286125AC1B5003F7B2E /* GradientView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {855, 592}}";
+			sepNavSelRange = "{288, 0}";
+			sepNavVisRange = "{0, 683}";
+		};
+	};
+	82B242A8125AC3F3003F7B2E /* CMGradientLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {855, 592}}";
+			sepNavSelRange = "{208, 0}";
+			sepNavVisRange = "{0, 266}";
+		};
+	};
+	82B242A9125AC3F3003F7B2E /* CMGradientLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {855, 592}}";
+			sepNavSelRange = "{673, 0}";
+			sepNavVisRange = "{0, 683}";
+		};
+	};
+	82B242BC125AC4FD003F7B2E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82B24285125AC1B5003F7B2E /* GradientView.h */;
+		name = "GradientView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 218;
+		vrLoc = 0;
+	};
+	82B242BD125AC4FD003F7B2E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GradientViewExampleViewController.h */;
+		name = "GradientViewExampleViewController.h: 10";
+		rLen = 0;
+		rLoc = 213;
+		rType = 0;
+		vrLen = 329;
+		vrLoc = 0;
+	};
+	82B242BE125AC4FD003F7B2E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GradientViewExampleViewController.m */;
+		name = "GradientViewExampleViewController.m: 36";
+		rLen = 0;
+		rLoc = 880;
+		rType = 0;
+		vrLen = 1180;
+		vrLoc = 0;
+	};
+	82B242BF125AC4FD003F7B2E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82B242A8125AC3F3003F7B2E /* CMGradientLayer.h */;
+		name = "CMGradientLayer.h: 10";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 266;
+		vrLoc = 0;
+	};
+	82B242C0125AC4FD003F7B2E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82B242A9125AC3F3003F7B2E /* CMGradientLayer.m */;
+		name = "CMGradientLayer.m: 29";
+		rLen = 0;
+		rLoc = 673;
+		rType = 0;
+		vrLen = 683;
+		vrLoc = 0;
+	};
+	82B242C1125AC4FD003F7B2E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82B24286125AC1B5003F7B2E /* GradientView.m */;
+		name = "GradientView.m: 15";
+		rLen = 0;
+		rLoc = 284;
+		rType = 0;
+		vrLen = 633;
+		vrLoc = 0;
+	};
+	82B242C2125AC4FD003F7B2E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82B24286125AC1B5003F7B2E /* GradientView.m */;
+		name = "GradientView.m: 18";
+		rLen = 0;
+		rLoc = 288;
+		rType = 0;
+		vrLen = 683;
+		vrLoc = 0;
+	};
+}
